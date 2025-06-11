@@ -28,7 +28,7 @@ The **ESB 32** is a custom-designed ESP32 development board created using **Alti
 1 **Microcontroller:** ESP32-WROOM-32 (Dual-core Xtensa 240MHz, Wi-Fi, Bluetooth)
 2 **Power Interface:** USB Type-C (5V input)
 3 **Voltage Regulation:** AMS1117-3.3 (or compatible)
-4 **Programming Interface:** USB to UART bridge (e.g., CP2102 / CH340)
+4 **Programming Interface:** USB to UART bridge ( CP2102 / CH340)
 -5 **Onboard Components:**
   - Reset and Boot buttons
   - Power LED
@@ -47,7 +47,7 @@ The **ESB 32** is a custom-designed ESP32 development board created using **Alti
 
 - USB Type-C cable
 - ESP32 board definitions (via Arduino Boards Manager)
-- Required USB-to-Serial drivers (e.g., CH340 / CP2102)
+- Required USB-to-Serial drivers ( CH340 / CP2102)
 
 ### Setup Instructions
 
